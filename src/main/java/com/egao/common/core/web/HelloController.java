@@ -13,4 +13,8 @@ public class HelloController {
     public void sayHello(){
         System.out.println("这是我说的话");
     }
+
+    public void sayByBy(){
+        System.out.println("再见，下次见");
+    }
 }
